@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(122, 88, 88);
+    color: white;
+}
+
+ul{
+    display:flex;
+}
